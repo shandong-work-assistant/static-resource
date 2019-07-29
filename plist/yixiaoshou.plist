@@ -30,8 +30,6 @@
 			<dict>
 				<key>bundle-identifier</key>
 				<string>com.chinatelecom.shandong.isell</string>
-				<key>bundle-version</key>
-				<string>1.7</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
