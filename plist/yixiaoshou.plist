@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://219.146.3.96:9630/wkfiles/group1/M00/00/00/rBABZ102x52AWrnIAXUYi-iYY04911.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://raw.githubusercontent.com/shandong-work-assistant/static-resource/master/assets/icon_menu_cbzs.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://raw.githubusercontent.com/shandong-work-assistant/static-resource/master/assets/icon_menu_cbzs.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.chinatelecom.shandong.isell</string>
+				<key>bundle-version</key>
+				<string>1.7</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>翼销售</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
