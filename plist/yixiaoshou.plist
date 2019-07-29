@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/shandong-work-assistant/static-resource/master/assets/icon_menu_yixiaoshou.png</string>
+					<string>http://219.146.3.96:9630/wkfiles/group1/M00/00/00/rBABZ102x4aARQcKAABgAEJBvnI841.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/shandong-work-assistant/static-resource/master/assets/icon_menu_yixiaoshou.png</string>
+					<string>http://219.146.3.96:9630/wkfiles/group1/M00/00/00/rBABZ102x4aARQcKAABgAEJBvnI841.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
